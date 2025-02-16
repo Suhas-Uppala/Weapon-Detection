@@ -1,0 +1,14 @@
+names:
+  0: Automatic Rifle
+  1: Bazooka
+  2: Grenade Launcher
+  3: Handgun
+  4: Knife
+  5: Shotgun
+  6: SMG
+  7: Sniper
+  8: Sword
+nc: 9
+path: D:\projects\summer internship\weapon
+train: D:\projects\summer internship\weapon\train
+val: D:\projects\summer internship\weapon\val
